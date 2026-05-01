@@ -365,7 +365,7 @@ p {
 
 .image-cover {
   background:
-    linear-gradient(
+    /* linear-gradient(
       90deg,
       rgba(3, 22, 16, 0.42),
       rgba(3, 22, 16, 0.1),
@@ -381,13 +381,16 @@ p {
       rgba(4, 49, 20, 0.34) 0 14px,
       rgba(133, 190, 42, 0.32) 14px 28px
     ),
-    linear-gradient(135deg, #0a3d22 0%, #6fae24 48%, #173f1c 100%);
+    linear-gradient(135deg, #0a3d22 0%, #6fae24 48%, #173f1c 100%), */
+    url('/media/Hero.png'); 
+
   background-size:
-    auto,
-    150px 150px,
-    190px 190px,
+    /* auto, */
+    /* 150px 150px,
+    190px 190px, */
     cover;
   background-position: center;
+
 }
 
 .hero {

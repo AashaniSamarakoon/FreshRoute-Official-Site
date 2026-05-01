@@ -20,19 +20,19 @@ const featureCards = [
   {
     title: "Verified fruit sourcing",
     text: "Connect trusted farmers, exporters, distributors, and buyers around available harvests and confirmed demand.",
-    image: null,
+    image: "/media/Image_1.png",
     alt: "",
   },
   {
     title: "Technology routing",
     text: "Plan direct farm-to-shop movement with clearer pickup windows, delivery needs, and route coordination.",
-    image: null,
+    image: "/media/Image_2.png",
     alt: "",
   },
   {
     title: "Quality monitoring",
     text: "Track batch notes, timing, partner updates, and freshness signals before fruit reaches the buyer.",
-    image: null,
+    image: "/media/Image_3.png",
     alt: "",
   },
 ];
@@ -74,17 +74,17 @@ const solutionCards = [
   {
     title: "Farmer visibility",
     text: "Connect available harvests to real buyer demand and reduce waiting time before produce leaves the farm.",
-    image: null,
+    image: "/media/Image_4.png",
   },
   {
     title: "Exporter coordination",
     text: "Coordinate lots, quality notes, documentation needs, and pickup schedules before fruit reaches the packing floor.",
-    image: null,
+    image: "/media/Image_5.png",
   },
   {
     title: "Buyer confidence",
     text: "Order fresh produce with better availability, clearer pricing signals, and direct delivery coordination.",
-    image: null,
+    image: "/media/Image_6.png",
   },
 ];
 
